@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Alireza
+my socials: 
 <!--
 **alireza-aliabadi/alireza-aliabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
