@@ -19,4 +19,4 @@ It would be my pleasure to receive your comments, guidance or have collaboration
 [![Skills](https://skillicons.dev/icons?i=python,go,bash,git,gitlab,redis,postgres,mysql,mongo,docker,kubernetes,linux,ansible,grafana,prometheus,nginx,postman,django,fastapi,regex&perline=7)]()
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alireza_aliabadi&theme=tokyonight)](https://wakatime.com/@2c6acfaa-4b05-464c-b4ef-cc0130f6ab71)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alireza_aliabadi&theme=tokyonight&v=2)](https://wakatime.com/@2c6acfaa-4b05-464c-b4ef-cc0130f6ab71)
