@@ -1,5 +1,5 @@
 ## Hi there, I'm Alireza
-I'm mid-level DevOps engineer and currently work in Pouyan company (one of Hamrah Aval subsidiaries). I interest in software engineering challenges and learn new things in software field.
+I'm mid-level DevOps and Software engineer. I interest in software engineering challenges and learn new things in software field.
 my other tech favorites are cybersecurity and blockchain. I enjoy using tech's edge tools and learn about them. My other favorites fields are music and investing in cryptocurrency.
 I'm Rock, Rock n Roll, 50's - 90's fan.
 It would be my pleasure to receive your comments, advice or have collaboration :)
