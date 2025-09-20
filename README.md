@@ -8,4 +8,4 @@ It would be my pleasure to receive your comments, advice or have collaboration :
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-aliabadi/) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alireza.aliabadi.dev@gmail.com)
 
 ### Techs & Skills:
-[![Skills](https://skillicons.dev/icons?i=python,go,bash,git,gitlab,redis,postgres,mysql,mongo,docker,kubernetes,linux,ansible,grafana,prometheus,nginx,postman,django,fastapi,regex&perline=7)]()
+[![Skills](https://skillicons.dev/icons?i=python,go,typescript,rust,bash,git,gitlab,redis,postgres,mysql,mongo,docker,kubernetes,linux,ansible,grafana,prometheus,nginx,postman,django,fastapi,regex&perline=7)]()
