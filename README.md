@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://github.com/alireza-aliabadi.png" width="140" alt="Alireza Aliabadi" />
-
+    
 # Alireza Aliabadi
 
 <p><code>@alireza-aliabadi</code> · AI Software Engineer · Ex-DevOps · Cloud</p>
@@ -42,9 +40,8 @@ I build **production-oriented AI systems** — LLM applications, RAG pipelines a
 
 - 🧠 Building **agentic AI platforms**, Q&A assistants and analyzers @ **AiSmoothy**
 - 🔍 Shipping **RAG systems** that retrieve, cite and hold up in production
-- 🏗️ Running **cloud infrastructure & deployment pipelines** @ **Sharif Technology Services Complex**
 - 🌱 Going deeper on **LLMOps, MCP, model serving** (vLLM, Ollama) and knowledge graphs
-- 💬 Ask me about **RAG, agents, Kubernetes, observability** — or migrating a monolith without tears
+- 💬 Ask me about **RAG, agents, AWS, observability** — or migrating a monolith without tears
 
 </td>
 <td width="50%" valign="top">
